@@ -192,6 +192,7 @@ section.header .description{
 
 }
 section.services{
+    margin-top: 2em;
     width: 100%;
     padding: 2rem 1rem;
 }
